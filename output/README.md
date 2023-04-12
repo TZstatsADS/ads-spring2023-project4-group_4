@@ -1,4 +1,4 @@
 ### Output folder
 
-The output directory contains analysis output, processed datasets, logs, or other processed things.
+This output folder contains the results of the various LFR models tuned.
 
