@@ -19,7 +19,7 @@ Term: Spring 2023
 **Contribution statement**: 
 + Dingore, Saloni: Researched and assisted in the implementation of PR model.
 + Jiang, Chenyi: 
-+ Qi, Yi Xuan: Implemented and tuned the final PR model used.
++ Qi, Yi Xuan: Implemented the PR (A5 model used), tuned the final PR model used.
 + Raharjo, Safira: Researched the implementation of, organized codes and files of, and wrote the presentation for the LFR model.
 + Sanghavi, Srushti Divyesh: Researched the implementation of the PR model, tried and tested different inputs (X) for higher accuracy, organized codes & files of, and wrote the presentation for the PR model.
 + Zhu, Tianyi: Implemented and tuned the final LFR model used.
