@@ -5,7 +5,7 @@
 Term: Spring 2023
 
 + Team 4
-+ Projec title: Lorem ipsum dolor sit amet
++ Project title: Learning Fair Representations vs. Fairness-aware Classifier with Prejudice Remover
 + Team members
 	+ Dingore, Saloni srd2180
 	+ Jiang, Chenyi cj2740
@@ -14,10 +14,15 @@ Term: Spring 2023
 	+ Sanghavi, Srushti Divyesh ss6594
 	+ Zhu, Tianyi tz2538
 
-+ Project summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-	
++ Project summary: This project implements the algorithms described in the papers Learning Fair Representations (Zemel et al., 2013) and Fairness-aware Classifier with Prejudice Remover Regularizer (Kamishima et al., 2012) on the dataset used by ProPublica to analyze the COMPAS tool (Correctional Offender Management Profiling for Alternative Sanctions). While both models had high accuracy in predicting two-year recidivism, Zemel's model was less biased against racially protected groups.
 
-**Contribution statement**: [default] All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
+**Contribution statement**: 
++ Dingore, Saloni: 
++ Jiang, Chenyi: 
++ Qi, Yi Xuan: Implemented and tuned the final PR model used.
++ Raharjo, Safira: Researched the implementation of, organized codes and files of, and wrote the presentation for the LFR model.
++ Sanghavi, Srushti Divyesh: Researched the implementation of, organized codes and files of, and wrote the presentation for the PR model.
++ Zhu, Tianyi: Implemented and tuned the final LFR model used.
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
